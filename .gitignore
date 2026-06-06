@@ -1,0 +1,20 @@
+# Local planning notes
+.goals.md
+.goals
+GETTING_STARTED.md
+
+# Dependencies
+node_modules/
+
+# Build output
+.svelte-kit/
+build/
+dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
